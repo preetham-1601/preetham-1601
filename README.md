@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preetham Kasturi</h1>
- 🌱 ***UI/UX Designer***
+ 🌱
 
 
 <h3 align="left">Programming Languages and Tools</h3>
