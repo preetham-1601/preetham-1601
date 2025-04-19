@@ -19,7 +19,7 @@
 
 <h3 align="left">Portfolio and Profiles</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/preetham-kasturi-1408431b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/preetham-kasturi-1408431b0/" height="30" width="40" /></a> &nbsp;
+\\<a href="https://www.linkedin.com/in/preetham-kasturi-1408431b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/preetham-kasturi-1408431b0/" height="30" width="40" /></a> &nbsp;
   <a href="https://g.dev/preethamkasturi" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSei0JhgofdH4P7p7KjJ7WXP5wd-sEFWebI138G3om7FA&s" alt="https://g.dev/preethamkasturi" height="40" width="40" /></a> &nbsp;
   <a href="https://github.com/preetham-1601" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="https://github.com/preetham-1601" height="40" width="40" /></a>
   
